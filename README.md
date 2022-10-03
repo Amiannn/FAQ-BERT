@@ -1,4 +1,4 @@
-# Simple-HMM-GMM
+# FAQ-BERT
 FAQ系統-使用BERT預訓練語言模型
 
 ## Installation
