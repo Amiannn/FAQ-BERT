@@ -1,0 +1,7 @@
+*pycache*
+.vscode
+outputs/*
+cache_dir/*
+assets/*
+exp/*
+runs/*
